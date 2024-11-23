@@ -4,6 +4,8 @@ ng generate component roles - for creating component roles
 <p>{{ selectedState }}</p>   interplocation
 [type]="inputType" property binding
 
+
+to change port number  - ng serve --port 4209
 event binding - functions
 
 
