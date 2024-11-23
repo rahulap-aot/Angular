@@ -13,7 +13,14 @@ export class RolesComponent {
   age: number = 30;
   isAdmin: boolean = true;
   birthDate: Date = new Date('1989-05-20');
-
   inputType: string ="radio";
   selectedState: string = '';
+
+  showWelcome (){
+    alert('Welcome');
+  }
+  showMessage ( messege: string){
+    alert(messege);
+  }
+
 }

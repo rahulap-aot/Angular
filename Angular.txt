@@ -1,0 +1,11 @@
+ng generate component roles - for creating component roles
+
+[(ngModel)]="firstName"  two way data binding
+<p>{{ selectedState }}</p>   interplocation
+[type]="inputType" property binding
+
+event binding - functions
+
+
+directive => Structural , attribute
+            ngIf, ngFor || ngClass , ngStyle
